@@ -1,0 +1,54 @@
+{
+    "Items": [
+        {
+            "Name": "소울이터",
+            "ID": "Relic_01",
+            "Description": "적이 25% 더 많은 소울을 드랍합니다.",
+            "Type": 0,
+            "Grade": 1,
+            "Price": 0,
+            "MaxQuantity": 1,
+            "Values": [
+                25
+            ]
+        },
+        {
+            "Name": "전장의 깃발 Lv.1",
+            "ID": "Relic_02",
+            "Description": "전투가 시작되고 10초간 공격력이 20% 상승합니다.",
+            "Type": 0,
+            "Grade": 0,
+            "Price": 0,
+            "MaxQuantity": 1,
+            "Values": [
+                10,
+                20
+            ]
+        },
+        {
+            "Name": "광전사의 목걸이 Lv.1",
+            "ID": "Relic_03",
+            "Description": "체력이 30% 아래로 떨어지면 공격력이 20% 상승합니다.",
+            "Type": 0,
+            "Grade": 0,
+            "Price": 0,
+            "MaxQuantity": 1,
+            "Values": [
+                30,
+                20
+            ]
+        },
+        {
+            "Name": "공격적인 부엉이",
+            "ID": "Relic_04",
+            "Description": "전투가 시작되면 소환되어 적을 공격합니다.",
+            "Type": 0,
+            "Grade": 3,
+            "Price": 0,
+            "MaxQuantity": 1,
+            "Values": [
+                10
+            ]
+        }
+    ]
+}

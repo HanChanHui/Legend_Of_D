@@ -1,0 +1,20 @@
+{
+    "Items": [
+        {
+            "Name": "Adel",
+            "Health": 800,
+            "Power": 40,
+            "Potentiality": 5,
+            "CriticalRate": 5,
+            "CriticalPower": 15
+        },
+        {
+            "Name": "Test_01",
+            "Health": 1000,
+            "Power": 0,
+            "Potentiality": 0,
+            "CriticalRate": 0,
+            "CriticalPower": 0
+        }
+    ]
+}

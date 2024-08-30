@@ -1,0 +1,256 @@
+{
+    "Items": [
+        {
+            "Name": "사격 강화",
+            "ID": "HeroUpgrade_01",
+            "Description": "공격력이 5% 증가한다.",
+            "Grade": 0,
+            "Values": [
+                5
+            ]
+        },
+        {
+            "Name": "사격 강화",
+            "ID": "HeroUpgrade_01",
+            "Description": "공격력이 10% 증가한다.",
+            "Grade": 1,
+            "Values": [
+                10
+            ]
+        },
+        {
+            "Name": "사격 강화",
+            "ID": "HeroUpgrade_01",
+            "Description": "공격력이 15% 증가한다.",
+            "Grade": 2,
+            "Values": [
+                15
+            ]
+        },
+        {
+            "Name": "사격의 정수",
+            "ID": "HeroUpgrade_01",
+            "Description": "공격력이 30% 증가한다.",
+            "Grade": 3,
+            "Values": [
+                30
+            ]
+        },
+        {
+            "Name": "민첩한 발걸음",
+            "ID": "HeroUpgrade_02",
+            "Description": "이동속도가 5% 증가한다.",
+            "Grade": 0,
+            "Values": [
+                5
+            ]
+        },
+        {
+            "Name": "민첩한 발걸음",
+            "ID": "HeroUpgrade_02",
+            "Description": "이동속도가 10% 증가한다.",
+            "Grade": 1,
+            "Values": [
+                10
+            ]
+        },
+        {
+            "Name": "민첩한 발걸음",
+            "ID": "HeroUpgrade_02",
+            "Description": "이동속도가 15% 증가한다.",
+            "Grade": 2,
+            "Values": [
+                15
+            ]
+        },
+        {
+            "Name": "광속 질주",
+            "ID": "HeroUpgrade_02",
+            "Description": "이동속도가 30% 증가한다.",
+            "Grade": 3,
+            "Values": [
+                30
+            ]
+        },
+        {
+            "Name": "신속 사격",
+            "ID": "HeroUpgrade_03",
+            "Description": "공격속도가 5% 증가한다.",
+            "Grade": 0,
+            "Values": [
+                5
+            ]
+        },
+        {
+            "Name": "신속 사격",
+            "ID": "HeroUpgrade_03",
+            "Description": "공격속도가 10% 증가한다.",
+            "Grade": 1,
+            "Values": [
+                10
+            ]
+        },
+        {
+            "Name": "신속 사격",
+            "ID": "HeroUpgrade_03",
+            "Description": "공격속도가 15% 증가한다.",
+            "Grade": 2,
+            "Values": [
+                15
+            ]
+        },
+        {
+            "Name": "퀵 드로우",
+            "ID": "HeroUpgrade_03",
+            "Description": "공격속도가 30% 증가한다.",
+            "Grade": 3,
+            "Values": [
+                30
+            ]
+        },
+        {
+            "Name": "정밀 조준",
+            "ID": "HeroUpgrade_04",
+            "Description": "치명타 확률이 1% 증가한다.",
+            "Grade": 0,
+            "Values": [
+                1
+            ]
+        },
+        {
+            "Name": "정밀 조준",
+            "ID": "HeroUpgrade_04",
+            "Description": "치명타 확률이 3% 증가한다.",
+            "Grade": 1,
+            "Values": [
+                3
+            ]
+        },
+        {
+            "Name": "정밀 조준",
+            "ID": "HeroUpgrade_04",
+            "Description": "치명타 확률이 7% 증가한다.",
+            "Grade": 2,
+            "Values": [
+                7
+            ]
+        },
+        {
+            "Name": "헤드샷",
+            "ID": "HeroUpgrade_04",
+            "Description": "치명타 확률이 15% 증가한다.",
+            "Grade": 3,
+            "Values": [
+                15
+            ]
+        },
+        {
+            "Name": "치명적인 일격",
+            "ID": "HeroUpgrade_05",
+            "Description": "치명타 데미지가 20% 증가한다.",
+            "Grade": 0,
+            "Values": [
+                20
+            ]
+        },
+        {
+            "Name": "치명적인 일격",
+            "ID": "HeroUpgrade_05",
+            "Description": "치명타 데미지가 50% 증가한다.",
+            "Grade": 1,
+            "Values": [
+                50
+            ]
+        },
+        {
+            "Name": "치명적인 일격",
+            "ID": "HeroUpgrade_05",
+            "Description": "치명타 데미지가 75% 증가한다.",
+            "Grade": 2,
+            "Values": [
+                75
+            ]
+        },
+        {
+            "Name": "파괴자",
+            "ID": "HeroUpgrade_05",
+            "Description": "치명타 데미지가 100% 증가한다.",
+            "Grade": 3,
+            "Values": [
+                100
+            ]
+        },
+        {
+            "Name": "기민함",
+            "ID": "HeroUpgrade_06",
+            "Description": "회피율이 1% 증가한다.",
+            "Grade": 0,
+            "Values": [
+                1
+            ]
+        },
+        {
+            "Name": "기민함",
+            "ID": "HeroUpgrade_06",
+            "Description": "회피율이 3% 증가한다.",
+            "Grade": 1,
+            "Values": [
+                3
+            ]
+        },
+        {
+            "Name": "기민함",
+            "ID": "HeroUpgrade_06",
+            "Description": "회피율이 7% 증가한다.",
+            "Grade": 2,
+            "Values": [
+                7
+            ]
+        },
+        {
+            "Name": "회피의 달인",
+            "ID": "HeroUpgrade_06",
+            "Description": "회피율이 10% 증가한다.",
+            "Grade": 3,
+            "Values": [
+                10
+            ]
+        },
+        {
+            "Name": "강철심장",
+            "ID": "HeroUpgrade_07",
+            "Description": "최대 체력이 25 증가한다.",
+            "Grade": 0,
+            "Values": [
+                25
+            ]
+        },
+        {
+            "Name": "강철심장",
+            "ID": "HeroUpgrade_07",
+            "Description": "최대 체력이 50 증가한다.",
+            "Grade": 1,
+            "Values": [
+                50
+            ]
+        },
+        {
+            "Name": "강철심장",
+            "ID": "HeroUpgrade_07",
+            "Description": "최대 체력이 75 증가한다.",
+            "Grade": 2,
+            "Values": [
+                75
+            ]
+        },
+        {
+            "Name": "불사의 심장",
+            "ID": "HeroUpgrade_07",
+            "Description": "최대 체력이 100 증가한다.",
+            "Grade": 3,
+            "Values": [
+                100
+            ]
+        }
+    ]
+}

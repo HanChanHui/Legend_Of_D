@@ -1,0 +1,50 @@
+{
+    "Items": [
+        {
+            "Name": "다중탄환",
+            "ID": "WeaponUpgrade_01",
+            "Description": "발사체가 1개 추가 되고 총알이 각각 공격력의 55%의 데미지를 줍니다.",
+            "Grade": 0,
+            "Values": [
+                1,
+                55
+            ]
+        },
+        {
+            "Name": "흡혈",
+            "ID": "WeaponUpgrade_02",
+            "Description": "적 처치 시 체력을 1 회복합니다.",
+            "Grade": 1,
+            "Values": [
+                1
+            ]
+        },
+        {
+            "Name": "처형자",
+            "ID": "WeaponUpgrade_03",
+            "Description": "보스에게 5% 추가 데미지를 입힙니다.",
+            "Grade": 0,
+            "Values": [
+                5
+            ]
+        },
+        {
+            "Name": "보조탄창",
+            "ID": "WeaponUpgrade_04",
+            "Description": "장탄수가 10% 증가합니다.",
+            "Grade": 0,
+            "Values": [
+                10
+            ]
+        },
+        {
+            "Name": "집중사격",
+            "ID": "WeaponUpgrade_05",
+            "Description": "장탄수가 절반이 되고 데미지가 40% 증가합니다.",
+            "Grade": 2,
+            "Values": [
+                40
+            ]
+        }
+    ]
+}
